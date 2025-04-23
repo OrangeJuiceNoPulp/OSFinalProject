@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd ~/os_search
+source "./venv/bin/activate"
+
+python3 ~/bin/py_src/os_search_rag.py

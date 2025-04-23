@@ -1,0 +1,6 @@
+bulldog
+beagle
+labrador
+corgi
+pug
+poodle
